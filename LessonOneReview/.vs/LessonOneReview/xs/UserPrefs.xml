@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BE89A37B-EE6F-40B8-B34E-CF77D6617E1C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LessonOneReview/Program.cs">
+    <Files>
+      <File FileName="LessonOneReview/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LessonOneReview" expanded="True">
+            <Node name="LessonOneReview" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LessonOneReview FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

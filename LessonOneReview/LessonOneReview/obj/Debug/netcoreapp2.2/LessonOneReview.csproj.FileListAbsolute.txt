@@ -1,0 +1,11 @@
+/Users/devinmuhs/Projects/C-Sharp/LessonOneReview/LessonOneReview/bin/Debug/netcoreapp2.2/LessonOneReview.deps.json
+/Users/devinmuhs/Projects/C-Sharp/LessonOneReview/LessonOneReview/bin/Debug/netcoreapp2.2/LessonOneReview.runtimeconfig.json
+/Users/devinmuhs/Projects/C-Sharp/LessonOneReview/LessonOneReview/bin/Debug/netcoreapp2.2/LessonOneReview.runtimeconfig.dev.json
+/Users/devinmuhs/Projects/C-Sharp/LessonOneReview/LessonOneReview/bin/Debug/netcoreapp2.2/LessonOneReview.dll
+/Users/devinmuhs/Projects/C-Sharp/LessonOneReview/LessonOneReview/bin/Debug/netcoreapp2.2/LessonOneReview.pdb
+/Users/devinmuhs/Projects/C-Sharp/LessonOneReview/LessonOneReview/obj/Debug/netcoreapp2.2/LessonOneReview.csprojAssemblyReference.cache
+/Users/devinmuhs/Projects/C-Sharp/LessonOneReview/LessonOneReview/obj/Debug/netcoreapp2.2/LessonOneReview.csproj.CoreCompileInputs.cache
+/Users/devinmuhs/Projects/C-Sharp/LessonOneReview/LessonOneReview/obj/Debug/netcoreapp2.2/LessonOneReview.AssemblyInfoInputs.cache
+/Users/devinmuhs/Projects/C-Sharp/LessonOneReview/LessonOneReview/obj/Debug/netcoreapp2.2/LessonOneReview.AssemblyInfo.cs
+/Users/devinmuhs/Projects/C-Sharp/LessonOneReview/LessonOneReview/obj/Debug/netcoreapp2.2/LessonOneReview.dll
+/Users/devinmuhs/Projects/C-Sharp/LessonOneReview/LessonOneReview/obj/Debug/netcoreapp2.2/LessonOneReview.pdb
