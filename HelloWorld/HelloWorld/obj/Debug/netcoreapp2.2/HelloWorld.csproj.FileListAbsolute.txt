@@ -1,0 +1,11 @@
+/Users/devinmuhs/Projects/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.deps.json
+/Users/devinmuhs/Projects/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.json
+/Users/devinmuhs/Projects/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.dev.json
+/Users/devinmuhs/Projects/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.dll
+/Users/devinmuhs/Projects/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.pdb
+/Users/devinmuhs/Projects/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csprojAssemblyReference.cache
+/Users/devinmuhs/Projects/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/devinmuhs/Projects/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfoInputs.cache
+/Users/devinmuhs/Projects/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfo.cs
+/Users/devinmuhs/Projects/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.dll
+/Users/devinmuhs/Projects/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.pdb
