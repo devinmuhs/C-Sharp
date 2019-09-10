@@ -1,0 +1,11 @@
+/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp2.2/MoneyMaker.deps.json
+/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp2.2/MoneyMaker.runtimeconfig.json
+/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp2.2/MoneyMaker.runtimeconfig.dev.json
+/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp2.2/MoneyMaker.dll
+/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/bin/Debug/netcoreapp2.2/MoneyMaker.pdb
+/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp2.2/MoneyMaker.csprojAssemblyReference.cache
+/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp2.2/MoneyMaker.csproj.CoreCompileInputs.cache
+/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp2.2/MoneyMaker.AssemblyInfoInputs.cache
+/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp2.2/MoneyMaker.AssemblyInfo.cs
+/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp2.2/MoneyMaker.dll
+/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/obj/Debug/netcoreapp2.2/MoneyMaker.pdb

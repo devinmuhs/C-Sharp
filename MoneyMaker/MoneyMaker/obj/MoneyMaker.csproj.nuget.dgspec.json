@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/devinmuhs/Projects/C-Sharp/MadLibs/MadLibs/MadLibs.csproj": {}
+    "/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/MoneyMaker.csproj": {}
   },
   "projects": {
-    "/Users/devinmuhs/Projects/C-Sharp/MadLibs/MadLibs/MadLibs.csproj": {
+    "/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/MoneyMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/devinmuhs/Projects/C-Sharp/MadLibs/MadLibs/MadLibs.csproj",
-        "projectName": "MadLibs",
-        "projectPath": "/Users/devinmuhs/Projects/C-Sharp/MadLibs/MadLibs/MadLibs.csproj",
+        "projectUniqueName": "/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/MoneyMaker.csproj",
+        "projectName": "MoneyMaker",
+        "projectPath": "/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/MoneyMaker.csproj",
         "packagesPath": "/Users/devinmuhs/.nuget/packages/",
-        "outputPath": "/Users/devinmuhs/Projects/C-Sharp/MadLibs/MadLibs/obj/",
+        "outputPath": "/Users/devinmuhs/Projects/C-Sharp/MoneyMaker/MoneyMaker/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
