@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{838E6393-FEAF-44EF-BEC7-B84EAB14FD10}|Default">
-  <MonoDevelop.Ide.ItemProperties.ComparisonOperator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ComparisonOperator/Program.cs">
+﻿<Properties StartupConfiguration="{A8BF42FF-C4F3-4A93-8FD1-377C556FCB4D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogicalOperators/Program.cs">
     <Files>
-      <File FileName="ComparisonOperator/Program.cs" Line="1" Column="1" />
+      <File FileName="LogicalOperators/Program.cs" Line="18" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ComparisonOperator" expanded="True">
-            <Node name="ComparisonOperator" expanded="True">
+          <Node name="LogicalOperators" expanded="True">
+            <Node name="LogicalOperators" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LogicalOperators PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

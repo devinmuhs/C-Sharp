@@ -1,0 +1,11 @@
+/Users/devinmuhs/Projects/C-Sharp/ComparisonOperator/ComparisonOperator/bin/Debug/netcoreapp2.2/ComparisonOperator.deps.json
+/Users/devinmuhs/Projects/C-Sharp/ComparisonOperator/ComparisonOperator/bin/Debug/netcoreapp2.2/ComparisonOperator.runtimeconfig.json
+/Users/devinmuhs/Projects/C-Sharp/ComparisonOperator/ComparisonOperator/bin/Debug/netcoreapp2.2/ComparisonOperator.runtimeconfig.dev.json
+/Users/devinmuhs/Projects/C-Sharp/ComparisonOperator/ComparisonOperator/bin/Debug/netcoreapp2.2/ComparisonOperator.dll
+/Users/devinmuhs/Projects/C-Sharp/ComparisonOperator/ComparisonOperator/bin/Debug/netcoreapp2.2/ComparisonOperator.pdb
+/Users/devinmuhs/Projects/C-Sharp/ComparisonOperator/ComparisonOperator/obj/Debug/netcoreapp2.2/ComparisonOperator.csprojAssemblyReference.cache
+/Users/devinmuhs/Projects/C-Sharp/ComparisonOperator/ComparisonOperator/obj/Debug/netcoreapp2.2/ComparisonOperator.csproj.CoreCompileInputs.cache
+/Users/devinmuhs/Projects/C-Sharp/ComparisonOperator/ComparisonOperator/obj/Debug/netcoreapp2.2/ComparisonOperator.AssemblyInfoInputs.cache
+/Users/devinmuhs/Projects/C-Sharp/ComparisonOperator/ComparisonOperator/obj/Debug/netcoreapp2.2/ComparisonOperator.AssemblyInfo.cs
+/Users/devinmuhs/Projects/C-Sharp/ComparisonOperator/ComparisonOperator/obj/Debug/netcoreapp2.2/ComparisonOperator.dll
+/Users/devinmuhs/Projects/C-Sharp/ComparisonOperator/ComparisonOperator/obj/Debug/netcoreapp2.2/ComparisonOperator.pdb

@@ -1,0 +1,11 @@
+/Users/devinmuhs/Projects/C-Sharp/LogicalOperators/LogicalOperators/bin/Debug/netcoreapp2.2/LogicalOperators.deps.json
+/Users/devinmuhs/Projects/C-Sharp/LogicalOperators/LogicalOperators/bin/Debug/netcoreapp2.2/LogicalOperators.runtimeconfig.json
+/Users/devinmuhs/Projects/C-Sharp/LogicalOperators/LogicalOperators/bin/Debug/netcoreapp2.2/LogicalOperators.runtimeconfig.dev.json
+/Users/devinmuhs/Projects/C-Sharp/LogicalOperators/LogicalOperators/bin/Debug/netcoreapp2.2/LogicalOperators.dll
+/Users/devinmuhs/Projects/C-Sharp/LogicalOperators/LogicalOperators/bin/Debug/netcoreapp2.2/LogicalOperators.pdb
+/Users/devinmuhs/Projects/C-Sharp/LogicalOperators/LogicalOperators/obj/Debug/netcoreapp2.2/LogicalOperators.csprojAssemblyReference.cache
+/Users/devinmuhs/Projects/C-Sharp/LogicalOperators/LogicalOperators/obj/Debug/netcoreapp2.2/LogicalOperators.csproj.CoreCompileInputs.cache
+/Users/devinmuhs/Projects/C-Sharp/LogicalOperators/LogicalOperators/obj/Debug/netcoreapp2.2/LogicalOperators.AssemblyInfoInputs.cache
+/Users/devinmuhs/Projects/C-Sharp/LogicalOperators/LogicalOperators/obj/Debug/netcoreapp2.2/LogicalOperators.AssemblyInfo.cs
+/Users/devinmuhs/Projects/C-Sharp/LogicalOperators/LogicalOperators/obj/Debug/netcoreapp2.2/LogicalOperators.dll
+/Users/devinmuhs/Projects/C-Sharp/LogicalOperators/LogicalOperators/obj/Debug/netcoreapp2.2/LogicalOperators.pdb
